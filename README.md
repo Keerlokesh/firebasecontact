@@ -1,3 +1,3 @@
 # Firebase Contact Form
+Mobile Responsive Contact Form that Sends Data to a FireBase.
 
-Mobile first, responsive contact from that sends data to a firebase database
